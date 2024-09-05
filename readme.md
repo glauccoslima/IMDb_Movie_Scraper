@@ -19,7 +19,7 @@ O objetivo deste projeto é coletar informações dos filmes mais populares disp
 - **Extração de Filmes Populares**: O sistema busca e extrai informações dos filmes mais populares na página do IMDb.
 - **Detalhes dos Filmes**: Para cada filme, são extraídos o título, data de lançamento, classificação e sinopse.
 - **Armazenamento em CSV**: As informações extraídas são salvas em um arquivo CSV para fácil acesso e manipulação.
-- **Multithreading**: Utiliza multithreading para agilizar o processo de scraping, fazendo várias requisições simultâneas.
+- **Multithreading**: Utiliza multithreading para otimizar o processo de scraping, fazendo várias requisições simultâneas.
 
 ## Tecnologias Utilizadas
 
